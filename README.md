@@ -1,2 +1,0 @@
-# 006_CSS_Responsive_Tasarim
-006_CSS_Responsive_Tasarim
